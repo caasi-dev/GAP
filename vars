@@ -1,0 +1,21 @@
+# Colour definitions
+NC='\033[0m'
+Black='\033[0;30m'
+Red='\033[0;31m'
+Green='\033[0;32m'
+Yellow='\033[0;33m'
+Blue='\033[0;34m'
+Purple='\033[0;35m'
+Cyan='\033[0;36m'
+White='\033[0;37m'
+
+# Symbols
+CHECK_MARK="${Green}\xE2\x9C\x94${NC}"
+X_MARK="${Red}\xE2\x9C\x96${NC}"
+PIN="${Red}\xF0\x9F\x93\x8C${NC}"
+CLOCK="${Green}\xE2\x8C\x9B${NC}"
+ARROW="${Cyan}\xE2\x96\xB6${NC}"
+BOOK="${Red}\xF0\x9F\x93\x8B${NC}"
+HOT="${Yellow}\xF0\x9F\x94\xA5${NC}"
+WARNING="${Red}\xF0\x9F\x9A\xA8${NC}"
+RIGHT_ANGLE="${Green}\xE2\x88\x9F${NC}"
