@@ -38,7 +38,7 @@ Since this project is WIP I am open to ideas and suggestions for future developm
 
 ### Planned features:
 
-- [ ] Initial setup, so users don't have to manually edit the file,
-- [ ] Action confirmation,
-- [ ] End summary,
+- Initial setup, so users don't have to manually edit the file: [#1](https://github.com/caasi-dev/GAP/issues/1),
+- Action confirmation: [#2](https://github.com/caasi-dev/GAP/issues/2),
+- End summary: [#3](https://github.com/caasi-dev/GAP/issues/3),
 - ...
