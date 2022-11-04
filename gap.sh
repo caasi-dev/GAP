@@ -1,9 +1,9 @@
 #!/bin/bash
+
+/usr/bin/notify-send "Checking repositories"
+
 . vars
-
-
-# define all your git project folders in this array
-folders=("/data/dev/dots" "/data/dev/TEST" "/data/dev/WORK/common-ground/")
+. folders
 
 # loop each folder and perform checks if there is modified
 # work in it, and commit and push if necessary
